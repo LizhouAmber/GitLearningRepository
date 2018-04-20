@@ -1,12 +1,4 @@
-lt is a new file
 
+傻瓜就是你 --------1
 
-is first row
-is second row
-is third row
-is four row
-
-
-这事在zs测试中添加到master中的数据
-
-new ------------ add new file
+就是谢华华 --------2
